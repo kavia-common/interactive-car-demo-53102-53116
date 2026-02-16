@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-car-demo-53102-53116/threejs_vite_frontend"
+}
